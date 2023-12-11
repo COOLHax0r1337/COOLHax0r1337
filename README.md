@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=COOLHax0r1337)
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=COOLHax0r1337)
 
